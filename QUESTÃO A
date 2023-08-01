@@ -1,1 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>atividade da música</title>
+</head>
+<body>
+
+
+    <ol>
+    <li> Introdução </li>
+    1. O que é BCDD <br>
+    2. Sistema de Gerência de Banco de Dados <br>
+    3. Modelo de Dados <br>
+   
+    
+    <li> Básico </li>
+     1. Como se cria um BCDD? <br>
+     2. Componentes básicos: <br>
+        <ul>
+            <li>Dados </li>
+            <li> Hardware</li>
+            <li> Software</li>
+            <li> Usuários</li>
+        </ul>
+
+    3. Como Criar o primeiro BCDD?  
+    
+    
+    
+    <li>  Características do Banco de Dados </li>
+    1. um arquivo de texto <br>
+    2. formato de tabela <br>
+    3. repositório de informações <br>
+   
+
+    
+    <li>Evolução de programas </li>
+    1. Exibição dos dados na interface<br>
+    2. Comunicação com processos remotos<br>
+    3. Manutenção de grandes repositórios compartilhados de dados<br>
+    
+
+    <li>  Conceitos centrais da abordagem ER</li>
+    1. Entidade <br>
+    2. Cardinalidade <br>
+    3. Relacionamento <br>
+
+    </ol>
+
+
+
+</body>
+</head>
+
 
